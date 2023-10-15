@@ -111,7 +111,16 @@ footer a:hover img {
     transform: scale(1.2);
 }
 
-
+.fixed_button {
+      position: fixed;
+      top: 50%; /* Adjust this value to position the button vertically as desired */
+      right: 20px; /* Adjust this value to position the button from the right edge */
+      color: #fff; /* Text color for the button */
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
 
 
 
@@ -162,7 +171,7 @@ footer a:hover img {
             width: 270px;
             height: 350px;
             display: inline-block;
-            margin-right: 65px;
+            margin-right: 30px;
             transition: transform 0.5s;
         }
 
@@ -230,7 +239,7 @@ footer a:hover img {
 
     <!-- Add the black section under the header -->
     <div class="black-section">
-        <a><img src="verizon logo.svg" alt="Verizon Logo"></a>
+        <a><img src="../static/icon.png" alt="Verizon Logo"></a>
         <div class="header-links">
             <a href="#" class="white-link">Shop</a>
             <a href="#" class="white-link">Why Verizon</a>
@@ -239,8 +248,13 @@ footer a:hover img {
    
 
 <!-- Add this search input box inside the black header, after the shopping cart -->
+
 <div class="header-search">
     <input type="text" id="search-input" placeholder="Search...">
+    <form action="/iphone15" method="get">
+        <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+
 </div>
 
     <!-- The rest of your content remains the same -->
@@ -275,9 +289,9 @@ footer a:hover img {
     <main>
           
         <div class="image-slider">
-            <img class="slider-image" src="iphone.png" alt="Image 1">
-            <img class="slider-image" src="ad2.png" alt="Image 2">
-            <img class="slider-image" src="ad1.png" alt="Image 3">
+            <img class="slider-image" src="../static/iphone.png" alt="Image 1">
+            <img class="slider-image" src="../static/ad2.png" alt="Image 2">
+            <img class="slider-image" src="../static/ad1.png" alt="Image 3">
             
             <div class="slider-dots">
               <span class="dot active" onclick="changeImage(0)"></span>
@@ -317,20 +331,22 @@ footer a:hover img {
         <div class="image1-container">
             <!-- First image -->
             <a href="../templates/pixel.html">
-                <img class="image1" src="1.png" alt="Image 1">
+                <img class="image1" src="../static/1.png" alt="Image 1">
             </a>
             <!-- Second image -->
-            <img class="image1" src="2.png" alt="Image 1">
-
+            <img class="image1" src="../static/2.png" alt="Image 1">
             <!-- Third image -->
-            <img class="image1" src="3.png" alt="Image 1">
+            <img class="image1" src="../static/3.png" alt="Image 1">
 
-            <img class="image1" src="4.png" alt="Image 1">
+            <img class="image1" src="../static/4.png" alt="Image 1">
             <!-- Continue to add more images as needed -->
         </div>
 
-        <div><img style="width: 100%" src="red.png" alt="Your Image"></div>
+        <div><img style="width: 100%" src="../static/red.png" alt="Your Image"></div>
     </main>
+    <div>
+        <a class="fixed_button" ><button>Chat with AI</button></a>
+    </div>
    <!-- Your existing content above -->
 
 <!-- Your existing content above -->
@@ -407,22 +423,8 @@ footer a:hover img {
 </div>
 
 
-<!-- Your existing footer below -->
-<footer>
-    <!-- Your footer content here -->
-</footer>
 
 
-<!-- Your existing footer below -->
-<footer>
-    <!-- Your footer content here -->
-</footer>
-
-
-<!-- Your existing footer below -->
-<footer>
-    <!-- Your footer content here -->
-</footer>
 
     
     <footer>
