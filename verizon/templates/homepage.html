@@ -55,86 +55,98 @@
         }
 
         /* Add styles for the footer */
-/* Add styles for the footer */
-/* Add styles for the footer */
-footer {
-    background-color: #000;
-    color: #fff;
-    text-align: center;
-    padding: 1rem;
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-}
-
-/* Style the footer links */
-.footer-links {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.footer-links a {
-    color: #fff;
-    text-decoration: none;
-    margin: 5px;
-    display: inline-block;
-}
-
-/* Style the copyright text */
-.copyright-text {
-    font-size: 14px;
-    position: absolute;
-    top: 10px;
-    right: 10px;
-}
-
-/* Style the Verizon Logo */
-footer a img {
-    width: 100px; /* Adjust the width as needed */
-    height: 30px; /* Adjust the height as needed */
-    position: absolute;
-    top: 10px;
-    left: 10px;
-}
-
-
-/* Style the Verizon Logo link */
-footer a {
-    text-decoration: none;
-    color: #fff;
-}
-
-/* Add hover effect to the Verizon Logo */
-footer a:hover img {
-    transform: scale(1.2);
-}
-
-
-
-
-
-        .image-container {
+        /* Add styles for the footer */
+        /* Add styles for the footer */
+        footer {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
             position: relative;
-            width: 1150px;
-            height: 800px;
-            overflow: hidden;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
         }
 
-        .image {
-            width: 100%;
-            height: auto;
-            transition: transform 0.5s;
+        /* Style the footer links */
+        .footer-links {
+            margin-bottom: 10px;
+            text-align: center;
         }
 
-        .image-container:hover .image {
+        .footer-links a {
+            color: #fff;
+            text-decoration: none;
+            margin: 5px;
+            display: inline-block;
+        }
+
+        /* Style the copyright text */
+        .copyright-text {
+            font-size: 14px;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        /* Style the Verizon Logo */
+        footer a img {
+            width: 100px; /* Adjust the width as needed */
+            height: 30px; /* Adjust the height as needed */
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+
+
+        /* Style the Verizon Logo link */
+        footer a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        /* Add hover effect to the Verizon Logo */
+        footer a:hover img {
             transform: scale(1.2);
         }
 
+
+
+
+
+        .image-slider {
+            position: relative;
+            max-width: 100%;
+            margin: auto;
+        }
+
+        .slider-image {
+            display: none;
+            width: 100%;
+        }
+
+        .slider-dots {
+        text-align: center;
+        }
+
+        .dot {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        background-color: #bbb;
+        border-radius: 50%;
+        margin: 0 5px;
+        cursor: pointer;
+        }
+
+        .dot.active {
+        background-color: #333;
+        }
         .image1-container {
             width: 50px;
             height: 450px;
             white-space: nowrap;
+            
         }
 
         .image1 {
@@ -253,9 +265,55 @@ footer a:hover img {
 
     <!-- Main content -->
     <main>
-        <div class="image-container">
-            <img class="image" src="iphone.png" alt="Your Image">
-        </div>
+        
+          
+          
+        </body>
+        </html>
+        
+          
+          
+          
+          
+        <div class="image-slider">
+            <img class="slider-image" src="iphone.png" alt="Image 1">
+            <img class="slider-image" src="ad2.png" alt="Image 2">
+            <img class="slider-image" src="ad1.png" alt="Image 3">
+            
+            <div class="slider-dots">
+              <span class="dot active" onclick="changeImage(0)"></span>
+              <span class="dot" onclick="changeImage(1)"></span>
+              <span class="dot" onclick="changeImage(2)"></span>
+            </div>
+          </div>
+          
+          <script>
+            let slideIndex = 0;
+            showSlides(slideIndex);
+          
+            function changeImage(index) {
+              showSlides(slideIndex = index);
+            }
+          
+            function showSlides(index) {
+              const images = document.querySelectorAll(".slider-image");
+              const dots = document.querySelectorAll(".dot");
+              
+              if (index >= images.length) {
+                slideIndex = 0;
+              } else if (index < 0) {
+                slideIndex = images.length - 1;
+              }
+          
+              images.forEach((image) => image.style.display = "none");
+              dots.forEach((dot) => dot.classList.remove("active"));
+          
+              images[slideIndex].style.display = "block";
+              dots[slideIndex].classList.add("active");
+            }
+          </script>
+
+        
         <h2 style="font-size: 50px;">Our latest offers for you.</h2>
 
         <div class="image1-container">
