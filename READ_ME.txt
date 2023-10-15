@@ -1,2 +1,2 @@
-Backend: chatgpt-retrieval
-Frontend: verizon
+Backend Folder: chatgpt-retrieval
+Frontend Folder: verizon
