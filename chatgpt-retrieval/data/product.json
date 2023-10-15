@@ -1,0 +1,429 @@
+{
+  "phones": [
+    {
+      "Phone Type": "iPhone 15 Pro Max",
+      "Brand": "Apple",
+      "Price": 1299,
+      "Dimensions": "160.8 x 78.1 x 7.7 mm",
+      "Storage": "128GB, 256GB, 512GB, 1TB",
+      "Color Options": "Space Gray, Silver, Gold",
+      "Trade-In Promotions": "Up to $500 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Leather Folio Case, 20W USB-C Power Adapter, AirPods Pro",
+      "Overview": "The iPhone 15 Pro Max is a flagship device with a stunning large display and a powerful A16 Bionic chip.",
+      "Features": "- 6.7-inch Super Retina XDR display<br>- Triple-camera system with ProRAW and ProRes capabilities<br>- 5G connectivity<br>- Face ID with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- A16 Bionic chip with 6-core CPU<br>- Up to 1TB of storage<br>- Ceramic Shield front cover<br>- MagSafe technology<br>- iOS 16",
+      "Reviews": "\"The iPhone 15 Pro Max is an absolute powerhouse. The camera quality is unmatched, and the large screen is perfect for media consumption.\" - TechGuru<br>\"The A16 chip delivers exceptional performance, making this iPhone a great choice for power users.\" - MobileTechReviews"
+    },
+    {
+      "Phone Type": "iPhone 15 Pro",
+      "Brand": "Apple",
+      "Price": 1199,
+      "Dimensions": "146.7 x 71.5 x 7.5 mm",
+      "Storage": "128GB, 256GB, 512GB, 1TB",
+      "Color Options": "Graphite, Silver, Gold",
+      "Trade-In Promotions": "Up to $450 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Silicone Case with MagSafe, Wireless Charging Pad, Apple Pencil (2nd Generation)",
+      "Overview": "The iPhone 15 Pro offers top-tier performance and photography capabilities.",
+      "Features": "- 6.1-inch Super Retina XDR display<br>- Triple-camera system with ProRAW and ProRes capabilities<br>- 5G connectivity<br>- Face ID with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- A16 Bionic chip with 6-core CPU<br>- Up to 1TB of storage<br>- Ceramic Shield front cover<br>- MagSafe technology<br>- iOS 16",
+      "Reviews": "\"The iPhone 15 Pro is the perfect balance of power and portability. It fits comfortably in the hand and takes stunning photos.\" - MobileMag<br>\"The ProRes video recording is a game-changer for content creators.\" - TechHaven"
+    },
+    {
+      "Phone Type": "iPhone 15 Plus",
+      "Brand": "Apple",
+      "Price": 999,
+      "Dimensions": "156.2 x 74.6 x 7.9 mm",
+      "Storage": "64GB, 128GB, 256GB",
+      "Color Options": "Midnight, Starlight",
+      "Trade-In Promotions": "Up to $400 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Clear Case, Lightning to 3.5mm Adapter, Apple Watch Series 7",
+      "Overview": "The iPhone 15 Plus is a versatile device with a sleek design.",
+      "Features": "- 6.1-inch Super Retina XDR display<br>- Dual-camera system with Night mode<br>- 5G connectivity<br>- Face ID with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- A16 Bionic chip with 6-core CPU<br>- Up to 256GB of storage<br>- Ceramic Shield front cover<br>- MagSafe technology<br>- iOS 16",
+      "Reviews": "\"The iPhone 15 Plus is a fantastic all-rounder. It offers great value for the price and performs exceptionally well.\" - MobileTrend<br>\"The camera system may be dual, but it still captures stunning photos.\" - GadgetWorld"
+    },
+    {
+      "Phone Type": "iPhone 15",
+      "Brand": "Apple",
+      "Price": 799,
+      "Dimensions": "143.1 x 69.5 x 7.7 mm",
+      "Storage": "64GB, 128GB, 256GB",
+      "Color Options": "Blue, Green, Pink, Red, Black",
+      "Trade-In Promotions": "Up to $300 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Smart Battery Case, Lightning to USB Cable",
+      "Overview": "The iPhone 15 delivers reliable performance and a vibrant display.",
+      "Features": "- 6.1-inch Liquid Retina display<br>- Dual-camera system with Night mode<br>- 5G connectivity<br>- Face ID with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- A16 Bionic chip with 4-core CPU<br>- Up to 256GB of storage<br>- Ceramic Shield front cover<br>- MagSafe technology<br>- iOS 16",
+      "Reviews": "\"For its price, the iPhone 15 packs a punch. It's a great choice for users looking for a dependable iPhone.\" - TechZone<br>\"The camera system is surprisingly capable, especially in low light conditions.\" - MobileToday"
+    },
+    {
+      "Phone Type": "iPhone 14 Pro Max",
+      "Brand": "Apple",
+      "Price": 1199,
+      "Dimensions": "160.8 x 78.1 x 7.7 mm",
+      "Storage": "128GB, 256GB, 512GB, 1TB",
+      "Color Options": "Space Gray, Silver, Gold",
+      "Trade-In Promotions": "Up to $500 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Leather Wallet with MagSafe, 30W USB-C Power Adapter, AirPods Max",
+      "Overview": "The iPhone 14 Pro Max offers top-of-the-line features for professionals.",
+      "Features": "- 6.7-inch Super Retina XDR display<br>- Triple-camera system with ProRAW and ProRes capabilities<br>- 5G connectivity<br>- Face ID with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- A15 Bionic chip with 6-core CPU<br>- Up to 1TB of storage<br>- Ceramic Shield front cover<br>- MagSafe technology<br>- iOS 15",
+      "Reviews": "\"The iPhone 14 Pro Max continues to impress with its camera capabilities and large display.\" - TechTrends<br>\"A powerful device that's perfect for content creators and power users.\" - GadgetGuru"
+    },
+    {
+      "Phone Type": "iPhone 14 Pro",
+      "Brand": "Apple",
+      "Price": 1099,
+      "Dimensions": "146.7 x 71.5 x 7.5 mm",
+      "Storage": "128GB, 256GB, 512GB, 1TB",
+      "Color Options": "Graphite, Silver, Gold",
+      "Trade-In Promotions": "Up to $450 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Silicone Case with MagSafe, Wireless Charging Stand, Apple Pencil (1st Generation)",
+      "Overview": "The iPhone 14 Pro offers a premium smartphone experience.",
+      "Features": "- 6.1-inch Super Retina XDR display<br>- Triple-camera system with ProRAW and ProRes capabilities<br>- 5G connectivity<br>- Face ID with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- A15 Bionic chip with 6-core CPU<br>- Up to 1TB of storage<br>- Ceramic Shield front cover<br>- MagSafe technology<br>- iOS 15",
+      "Reviews": "\"The iPhone 14 Pro strikes a balance between power and style. It's a versatile device for both work and play.\" - MobileStyle<br>\"ProRAW and ProRes support take mobile photography and videography to the next level.\" - TechReview"
+    },
+    {
+      "Phone Type": "iPhone 14 Plus",
+      "Brand": "Apple",
+      "Price": 999,
+      "Dimensions": "156.2 x 74.6 x 7.9 mm",
+      "Storage": "64GB, 128GB, 256GB",
+      "Color Options": "Midnight, Starlight",
+      "Trade-In Promotions": "Up to $400 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Clear Case, Lightning to USB-C Cable, Apple Watch SE",
+      "Overview": "The iPhone 14 Plus offers a sleek design and impressive performance.",
+      "Features": "- 6.1-inch Super Retina XDR display<br>- Dual-camera system with Night mode<br>- 5G connectivity<br>- Face ID with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- A15 Bionic chip with 4-core CPU<br>- Up to 256GB of storage<br>- Ceramic Shield front cover<br>- MagSafe technology<br>- iOS 15",
+      "Reviews": "\"The iPhone 14 Plus is a great mid-range option. It delivers good performance and a stylish design.\" - MobileChoice<br>\"The Night mode photography is a standout feature.\" - TechInsider"
+    },
+    {
+      "Phone Type": "iPhone 14",
+      "Brand": "Apple",
+      "Price": 799,
+      "Dimensions": "143.1 x 69.5 x 7.7 mm",
+      "Storage": "64GB, 128GB, 256GB",
+      "Color Options": "Blue, Green, Pink, Red, Black",
+      "Trade-In Promotions": "Up to $300 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Smart Battery Case, Lightning to USB Cable",
+      "Overview": "The iPhone 14 offers dependable performance and a vibrant Liquid Retina display.",
+      "Features": "- 6.1-inch Liquid Retina display<br>- Dual-camera system with Night mode<br>- 5G connectivity<br>- Face ID with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- A15 Bionic chip with 4-core CPU<br>- Up to 256GB of storage<br>- Ceramic Shield front cover<br>- MagSafe technology<br>- iOS 15",
+      "Reviews": "\"For its price, the iPhone 14 is a great value. It's reliable and has a colorful design.\" - MobileCraze<br>\"The Night mode photos are surprisingly impressive for this model.\" - GadgetBuzz"
+    },
+    {
+      "Phone Type": "Google Pixel 8 Pro",
+      "Brand": "Google",
+      "Price": 1099,
+      "Dimensions": "160.8 x 75.6 x 8.2 mm",
+      "Storage": "128GB, 256GB, 512GB",
+      "Color Options": "Black, White, Blue",
+      "Trade-In Promotions": "Up to $400 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Pixel 8 Pro Leather Case, Pixel 8 Pro Screen Protector, 30W USB-C Power Adapter, Pixel Stand Wireless Charger, Pixel Buds Pro",
+      "Overview": "The Google Pixel 8 Pro is a flagship device with a focus on photography.",
+      "Features": "- 6.7-inch OLED display with ProMotion technology<br>- Triple-camera system with computational photography<br>- 5G connectivity<br>- Face Unlock with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- Qualcomm Snapdragon 8 Gen 2 processor<br>- Up to 512GB of storage<br>- Titan M2 security chip<br>- Android 13",
+      "Reviews": "\"The Google Pixel 8 Pro excels in photography and delivers a clean Android experience.\" - AndroidCentral<br>\"The ProMotion display makes everything silky smooth.\" - PixelFans"
+    },
+    {
+      "Phone Type": "Google Pixel 8",
+      "Brand": "Google",
+      "Price": 899,
+      "Dimensions": "149.9 x 73.5 x 8.1 mm",
+      "Storage": "128GB, 256GB",
+      "Color Options": "Black, White, Green",
+      "Trade-In Promotions": "Up to $350 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Pixel 8 Fabric Case, Pixel 8 Glass Screen Protector, 18W USB-C Power Adapter, Pixel Stand Wireless Charger, Pixel Buds A-Series",
+      "Overview": "The Google Pixel 8 offers a well-rounded smartphone experience.",
+      "Features": "- 6.1-inch OLED display<br>- Dual-camera system with Night Sight<br>- 5G connectivity<br>- Face Unlock with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- Qualcomm Snapdragon 8 Gen 2 processor<br>- Up to 256GB of storage<br>- Titan M2 security chip<br>- Android 13",
+      "Reviews": "\"Google's Pixel 8 is a fantastic Android phone that balances performance, camera capabilities, and software.\" - TechJunction<br>\"The Night Sight feature continues to impress with low-light photography.\" - PixelLovers"
+    },
+    {
+      "Phone Type": "Google Pixel Fold",
+      "Brand": "Google",
+      "Price": 1299,
+      "Dimensions": "158.2 x 75.2 x 7.9 mm",
+      "Storage": "128GB, 256GB",
+      "Color Options": "Black, Silver",
+      "Trade-In Promotions": "Up to $500 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Pixel Fold Leather Folio Case, Pixel Fold Screen Protector, 65W USB-C Power Adapter, Pixel Stand Wireless Charger, Pixel Buds Pro",
+      "Overview": "The Google Pixel Fold is a folding phone with a flexible display.",
+      "Features": "- 7.6-inch Dynamic AMOLED 2X folding display<br>- Triple-camera system with Folded Optics<br>- 5G connectivity<br>- Side-mounted fingerprint sensor<br>- Water and dust resistance (IP68)",
+      "Specs": "- Qualcomm Snapdragon 8 Gen 2 processor<br>- Up to 256GB of storage<br>- Flex Mode for multitasking<br>- Android 13",
+      "Reviews": "\"The Pixel Fold is a bold step into the world of foldable phones, and it's impressive.\" - FoldableTechReview<br>\"The flexible display is a game-changer for productivity.\" - PixelFoldFans"
+    },
+    {
+      "Phone Type": "Google Pixel 7a",
+      "Brand": "Google",
+      "Price": 499,
+      "Dimensions": "144.7 x 70.3 x 8.8 mm",
+      "Storage": "64GB, 128GB",
+      "Color Options": "Black, Gray, White",
+      "Trade-In Promotions": "Up to $250 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Pixel 7a Silicone Case, Pixel 7a Screen Protector, 18W USB-C Power Adapter, Pixel Buds A-Series, USB-C to 3.5mm Headphone Adapter",
+      "Overview": "The Google Pixel 7a is a budget-friendly option with Google's signature camera.",
+      "Features": "- 6.2-inch OLED display<br>- Single-camera system with Night Sight<br>- 5G connectivity<br>- Rear-mounted fingerprint sensor<br>- Water and dust resistance (IP67)",
+      "Specs": "- Qualcomm Snapdragon 7a processor<br>- Up to 128GB of storage<br>- Fast charging support<br>- Android 13",
+      "Reviews": "\"The Pixel 7a offers excellent value for money and Google's excellent camera software.\" - AffordableTech<br>\"A compact and reliable phone for those on a budget.\" - PixelBudgetReview"
+    },
+    {
+      "Phone Type": "Samsung Galaxy Z Fold5",
+      "Brand": "Samsung",
+      "Price": 1799,
+      "Dimensions": "158.2 x 67.1 x 16.8 mm",
+      "Storage": "256GB, 512GB",
+      "Color Options": "Phantom Black, Cream",
+      "Trade-In Promotions": "Up to $500 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Z Fold5 Protective Cover, 45W USB-C Super Fast Charging Wall Charger",
+      "Overview": "The Samsung Galaxy Z Fold5 offers a unique foldable design with a large screen for multitasking.",
+      "Features": "- 7.6-inch Dynamic AMOLED 2X foldable display<br>- Triple-camera system with 100x Space Zoom<br>- 5G connectivity<br>- In-display fingerprint sensor<br>- Ultra Thin Glass (UTG)",
+      "Specs": "- Snapdragon 8 Gen 2 or Exynos 2200 (region-dependent)<br>- 4,500mAh battery<br>- S Pen support<br>- Android 12 with One UI 4",
+      "Reviews": "\"The Z Fold5 continues to push the boundaries of smartphone design. The foldable screen is a game-changer.\" - TechTrends<br>\"The camera system is versatile, and the multitasking experience is excellent.\" - MobileStyle"
+    },
+    {
+      "Phone Type": "Samsung Galaxy Z Flip5",
+      "Brand": "Samsung",
+      "Price": 1199,
+      "Dimensions": "166.0 x 72.2 x 6.9 mm",
+      "Storage": "128GB, 256GB",
+      "Color Options": "Lavender, Black",
+      "Trade-In Promotions": "Up to $450 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Z Flip5 Leather Cover, 25W USB-C Super Fast Charging Wall Charger",
+      "Overview": "The Samsung Galaxy Z Flip5 combines style and compactness with a foldable display.",
+      "Features": "- 6.7-inch Dynamic AMOLED 2X foldable display<br>- Dual-camera system with 10x Space Zoom<br>- 5G connectivity<br>- External cover display<br>- Ultra Thin Glass (UTG)",
+      "Specs": "- Snapdragon 870<br>- 3,300mAh battery<br>- Flex mode for versatile use<br>- Android 12 with One UI 4",
+      "Reviews": "\"The Z Flip5 is a fashion-forward foldable phone. Its compact design is perfect for on-the-go users.\" - GadgetGlam<br>\"The external display is handy for quick tasks, and the phone feels premium.\" - TechHaven"
+    },
+    {
+      "Phone Type": "Samsung Galaxy S23 Ultra",
+      "Brand": "Samsung",
+      "Price": 1299,
+      "Dimensions": "165.2 x 76.9 x 8.8 mm",
+      "Storage": "128GB, 256GB, 512GB",
+      "Color Options": "Phantom Black, Phantom White",
+      "Trade-In Promotions": "Up to $500 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "S23 Ultra Silicone Cover, 45W USB-C Super Fast Charging Wall Charger",
+      "Overview": "The Samsung Galaxy S23 Ultra offers top-tier performance with an emphasis on photography and productivity.",
+      "Features": "- 6.8-inch Dynamic AMOLED 2X display<br>- Quad-camera system with 108MP main sensor<br>- 5G connectivity<br>- S Pen Pro support<br>- In-display fingerprint sensor",
+      "Specs": "- Snapdragon 8 Gen 2 or Exynos 2200 (region-dependent)<br>- 5,000mAh battery<br>- Ultra-fast charging<br>- Android 12 with One UI 4",
+      "Reviews": "\"The S23 Ultra is a powerhouse with a stunning camera system. It's a true flagship device.\" - MobileMag<br>\"The S Pen Pro adds a new level of productivity to the S23 Ultra, making it ideal for business users.\" - TechZone"
+    },
+    {
+      "Phone Type": "Samsung Galaxy S23",
+      "Brand": "Samsung",
+      "Price": 999,
+      "Dimensions": "157.6 x 74.0 x 7.5 mm",
+      "Storage": "128GB, 256GB",
+      "Color Options": "Phantom Black, Phantom White",
+      "Trade-In Promotions": "Up to $400 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "S23 Clear Protective Cover, 25W USB-C Super Fast Charging Wall Charger",
+      "Overview": "The Samsung Galaxy S23 offers a premium smartphone experience with a focus on photography.",
+      "Features": "- 6.1-inch Dynamic AMOLED 2X display<br>- Triple-camera system with 50MP main sensor<br>- 5G connectivity<br>- In-display fingerprint sensor<br>- Water and dust resistance (IP68)",
+      "Specs": "- Snapdragon 888 or Exynos 2200 (region-dependent)<br>- 4,000mAh battery<br>- Super AMOLED display<br>- Android 12 with One UI 4",
+      "Reviews": "\"The S23 is a well-rounded smartphone with impressive camera capabilities. It's suitable for a wide range of users.\" - MobileChoice<br>\"The display is vibrant, and the device feels comfortable to hold.\" - GadgetBuzz"
+    }
+  ],
+  "accessories": [
+    {
+      "Accessory": "Leather Folio Case",
+      "Brand": "Apple",
+      "Price": 99,
+      "Overview of the Product": "Protect your iPhone 13 with this premium leather folio case. It offers style, functionality, and protection.",
+      "Detailed Description of the Product": "This leather folio case is crafted from high-quality leather and provides full protection for your iPhone 13, including a card slot for convenience.",
+      "Reviews of the Product": "\"I love this case! It feels luxurious and offers great protection.\" - User123"
+    },
+    {
+      "Accessory": "20W USB-C Power Adapter",
+      "Brand": "Apple",
+      "Price": 19,
+      "Overview of the Product": "Fast charge your devices with this compact USB-C power adapter.",
+      "Detailed Description of the Product": "The 20W USB-C Power Adapter provides rapid charging for your iPhone, iPad, or other devices, making it ideal for on-the-go users.",
+      "Reviews of the Product": "\"Charges my iPhone quickly, and it's small enough to carry everywhere.\" - TechGuru"
+    },
+    {
+      "Accessory": "AirPods Pro",
+      "Brand": "Apple",
+      "Price": 249,
+      "Overview of the Product": "Enjoy immersive sound with noise cancellation and a customizable fit.",
+      "Detailed Description of the Product": "AirPods Pro deliver high-quality audio, active noise cancellation, and a comfortable, secure fit for all-day listening.",
+      "Reviews of the Product": "\"The noise cancellation is amazing, and the sound quality is top-notch.\" - MusicLover"
+    },
+    {
+      "Accessory": "Silicone Case with MagSafe",
+      "Brand": "Apple",
+      "Price": 49,
+      "Overview of the Product": "This silicone case offers MagSafe compatibility and protects your iPhone while maintaining a slim profile.",
+      "Detailed Description of the Product": "The Silicone Case with MagSafe securely attaches to your iPhone and is easy to grip, providing protection without bulk.",
+      "Reviews of the Product": "\"I love the MagSafe feature. The case feels great, and it's easy to clean.\" - AppleFan"
+    },
+    {
+      "Accessory": "Wireless Charging Pad",
+      "Brand": "Apple",
+      "Price": 79,
+      "Overview of the Product": "Charge your iPhone and other Qi-compatible devices wirelessly with this sleek charging pad.",
+      "Detailed Description of the Product": "The Wireless Charging Pad is Qi-certified, providing fast and reliable charging for your devices, making it perfect for your nightstand.",
+      "Reviews of the Product": "\"Simple and efficient. I use it every night, and it charges quickly.\" - NightOwl"
+    },
+    {
+      "Accessory": "Apple Pencil (2nd Generation)",
+      "Brand": "Apple",
+      "Price": 129,
+      "Overview of the Product": "The Apple Pencil (2nd Generation) is designed for precision and creativity, making it perfect for artists and note-takers.",
+      "Detailed Description of the Product": "The Apple Pencil offers low latency, tilt and pressure sensitivity, and magnetic attachment for easy storage and pairing.",
+      "Reviews of the Product": "\"A game-changer for digital artists. It feels like drawing on paper.\" - Artist123"
+    },
+    {
+      "Accessory": "Clear Case",
+      "Brand": "Apple",
+      "Price": 39,
+      "Overview of the Product": "Protect your iPhone with this clear case that showcases its design.",
+      "Detailed Description of the Product": "The Clear Case is made of high-quality materials, offering protection against scratches while letting your iPhone's color shine through.",
+      "Reviews of the Product": "\"A perfect case to show off the iPhone's design. It's sturdy and clear.\" - DesignLover"
+    },
+    {
+      "Accessory": "Lightning to 3.5mm Adapter",
+      "Brand": "Apple",
+      "Price": 9,
+      "Overview of the Product": "This adapter allows you to connect your wired headphones to devices with a Lightning port.",
+      "Detailed Description of the Product": "The Lightning to 3.5mm Adapter provides a seamless way to use your existing headphones with your iPhone or iPad.",
+      "Reviews of the Product": "\"I can still use my favorite headphones with my iPhone. Great little accessory.\" - MusicEnthusiast"
+    },
+    {
+      "Accessory": "Apple Watch Series 7",
+      "Brand": "Apple",
+      "Price": 399,
+      "Overview of the Product": "The Apple Watch Series 7 features a larger and more durable display, making it perfect for tracking your health and staying connected.",
+      "Detailed Description of the Product": "With its advanced health tracking features, fast charging, and always-on display, the Series 7 is the ultimate smartwatch.",
+      "Reviews of the Product": "\"The Series 7 is a fantastic upgrade. The display is impressive, and it's super responsive.\" - FitnessFreak"
+    },
+    {
+      "Accessory": "Smart Battery Case",
+      "Brand": "Apple",
+      "Price": 129,
+      "Overview of the Product": "Extend your iPhone's battery life with the Smart Battery Case. It provides extra power and protection in a slim design.",
+      "Detailed Description of the Product": "The Smart Battery Case is designed to fit your iPhone snugly while offering additional battery life for longer usage.",
+      "Reviews of the Product": "\"This case is a lifesaver on busy days. It keeps my iPhone charged all day long.\" - OnTheGoUser"
+    },
+    {
+      "Accessory": "Lightning to USB Cable",
+      "Brand": "Apple",
+      "Price": 19,
+      "Overview of the Product": "The Lightning to USB Cable allows you to charge and sync your Apple devices.",
+      "Detailed Description of the Product": "This genuine Apple cable is built to last and ensures reliable charging and data transfer for your iPhone, iPad, or iPod.",
+      "Reviews of the Product": "\"Works perfectly, and it's durable. I keep one at home and one in my bag.\" - Traveler"
+    },
+    {
+      "Accessory": "Leather Wallet with MagSafe",
+      "Brand": "Apple",
+      "Price": 59,
+      "Overview of the Product": "This leather wallet attaches to the back of your iPhone with MagSafe and provides a stylish way to carry your essentials.",
+      "Detailed Description of the Product": "The Leather Wallet with MagSafe securely holds your cards and cash, offering convenience and easy attachment to your iPhone.",
+      "Reviews of the Product": "\"Love this wallet. It's a perfect addition to my iPhone and holds my cards securely.\" - Minimalist"
+    },
+    {
+      "Accessory": "30W USB-C Power Adapter",
+      "Brand": "Apple",
+      "Price": 29,
+      "Overview of the Product": "Fast charge your devices with this compact and powerful USB-C power adapter.",
+      "Detailed Description of the Product": "The 30W USB-C Power Adapter provides rapid charging for your MacBook, iPad, or iPhone, making it versatile and efficient.",
+      "Reviews of the Product": "\"Charges my MacBook and iPhone quickly. Compact and great for travel.\" - TechTraveler"
+    },
+    {
+      "Accessory": "AirPods Max",
+      "Brand": "Apple",
+      "Price": 549,
+      "Overview of the Product": "AirPods Max offer high-fidelity audio, active noise cancellation, and a comfortable over-ear design.",
+      "Detailed Description of the Product": "These premium headphones deliver immersive sound quality, customizable settings, and a luxurious fit for audiophiles.",
+      "Reviews of the Product": "\"The sound quality is unmatched, and the noise cancellation is superb.\" - Audiophile"
+    },
+    {
+      "Accessory": "Wireless Charging Stand",
+      "Brand": "Apple",
+      "Price": 99,
+      "Overview of the Product": "Charge your iPhone in style with this sleek wireless charging stand.",
+      "Detailed Description of the Product": "The Wireless Charging Stand provides a convenient and upright"
+    }
+  ],
+  "mobile plans": [
+    {
+      "Mobile Plan Features": "Business Unlimited Start 5G",
+      "Price per Line (Monthly)": 30,
+      "Data Plans": "Unlimited 5G data",
+      "Data Roaming Speeds": "2G speeds internationally",
+      "Talks, Texts, and Data Limits": "Unlimited nationwide talk, text, and data<br/>30GB premium data",
+      "Mobile Hotspot Data Traffic": "Up to 5GB at 4G LTE speed<br/>then unlimited at 3G speed",
+      "Plan Perks (Detailed)": "- Verizon Cloud Storage (5GB)<br/>- Verizon Call Filter<br/>- Verizon Smart Family Premium<br/>- 50% off select accessories<br/>- Discounts on additional lines",
+      "Premium Network Access": "Verizon 5G Nationwide"
+    },
+    {
+      "Mobile Plan Features": "Business Unlimited Plus 5G",
+      "Price per Line (Monthly)": 40,
+      "Data Plans": "Unlimited 5G data",
+      "Data Roaming Speeds": "2G speeds internationally",
+      "Talks, Texts, and Data Limits": "Unlimited nationwide talk, text, and data<br/>50GB premium data",
+      "Mobile Hotspot Data Traffic": "Up to 10GB at 4G LTE speed<br/>then unlimited at 3G speed",
+      "Plan Perks (Detailed)": "- Verizon Cloud Storage (5GB)<br/>- Verizon Call Filter<br/>- Verizon Smart Family Premium<br/>- Apple Music included<br/>- 50% off select accessories<br/>- Discounts on additional lines",
+      "Premium Network Access": "Verizon 5G Nationwide"
+    },
+    {
+      "Mobile Plan Features": "Business Unlimited Pro 5G",
+      "Price per Line (Monthly)": 45,
+      "Data Plans": "Unlimited 5G data",
+      "Data Roaming Speeds": "4G speeds internationally",
+      "Talks, Texts, and Data Limits": "Unlimited nationwide talk, text, and data<br/>100GB premium data",
+      "Mobile Hotspot Data Traffic": "Up to 20GB at 4G LTE speed<br/>then unlimited at 3G speed",
+      "Plan Perks (Detailed)": "- Verizon Cloud Storage (5GB)<br/>- Verizon Call Filter<br/>- Verizon Smart Family Premium<br/>- Apple Music included<br/>- 50% off select accessories<br/>- Discounts on additional lines",
+      "Premium Network Access": "Verizon 5G Nationwide"
+    }
+  ],
+  "internet plans": [
+    {
+      "Plan Features": "200/200 Mbps",
+      "Price per Plan (Monthly)": 49.99,
+      "Guarantee Type": "Speed Guarantee",
+      "Unlimited Data": "Yes",
+      "30-Day Money Back Guarantee": "Yes (2-year term)",
+      "+$20/month for one Business Digital Voice Line": "Yes",
+      "Promotions": "- First 6 months: $39.99/month, Waived installation fee, Free Wi-Fi router rental",
+      "Plan Description": "Ideal for small businesses, Suitable for basic browsing and emailing, Good for up to 5 devices, Reliable speed and performance"
+    },
+    {
+      "Plan Features": "500/500 Mbps",
+      "Price per Plan (Monthly)": 69.99,
+      "Guarantee Type": "Speed Guarantee",
+      "Unlimited Data": "Yes",
+      "30-Day Money Back Guarantee": "Yes (2-year term)",
+      "+$20/month for one Business Digital Voice Line": "Yes",
+      "Promotions": "- First 12 months: $59.99/month, Waived installation fee, Free Wi-Fi router rental",
+      "Plan Description": "Perfect for growing businesses, Supports HD video streaming and conferencing, Great for up to 10 devices, Consistent and fast internet speeds"
+    },
+    {
+      "Plan Features": "Up to 940/880 Mbps",
+      "Price per Plan (Monthly)": 89.99,
+      "Guarantee Type": "Speed Guarantee",
+      "Unlimited Data": "Yes",
+      "30-Day Money Back Guarantee": "Yes (2-year term)",
+      "+$20/month for one Business Digital Voice Line": "Yes",
+      "Promotions": "- First 12 months: $79.99/month, Waived installation fee, Free Wi-Fi router rental",
+      "Plan Description": "Ultimate connectivity for large businesses, Perfect for heavy data usage and cloud applications, Supports up to 15 devices, Maximum speed and reliability"
+    }
+  ]
+}
