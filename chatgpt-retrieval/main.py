@@ -13,7 +13,7 @@ from langchain.vectorstores import Chroma
 from random import randrange
 from langchain.document_loaders import UnstructuredExcelLoader
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = Secret_Key
 
 # Enable to save to disk & reuse the model (for repeated queries on the same data)
 PERSIST = False
