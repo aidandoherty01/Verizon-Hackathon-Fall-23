@@ -9,5 +9,5 @@
 ### Credits:
 - Ananth Lakshman Kumar Meesala
 - Jean-Stephane Lopez
-- Vu Minh Ahnh Le
+- Vu Minh Anh Le
 - Aidan Doherty
